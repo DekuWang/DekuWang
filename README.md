@@ -1,2 +1,4 @@
-# Personal-Profile
-Personal Repository
+#Hi There
+
+Still learning it
+
